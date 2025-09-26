@@ -1,0 +1,214 @@
+"state_name","species_code","common_name","scientific_name","trend_period","season_code","state_trend_median","state_trend_lowerci","state_trend_upperci","rangewide_trend_median","rangewide_trend_lowerci","rangewide_trend_upperci","breeding_habitat_primary","breeding_habitat_secondary"
+"Alabama","acafly","Acadian Flycatcher","Empidonax virescens","2012-2022","breeding",4.19,-0.563,13.1,0.763,-2.99,4.45,"Forests:  Temperate Eastern",NA
+"Alabama","ambduc","American Black Duck","Anas rubripes","2012-2022","nonbreeding",-46.6,-51.2,-36.8,-29.7,-33,-25.4,"Wetlands:  Boreal","Coasts:  Saltmarsh"
+"Alabama","ameavo","American Avocet","Recurvirostra americana","2012-2022","breeding",-5.7,-23,50.1,-2.16,-7.79,3.51,"Wetlands:  Freshwater Marsh",NA
+"Alabama","amecro","American Crow","Corvus brachyrhynchos","2012-2022","breeding",-17,-21.2,-13.6,-10.1,-11.8,-8.42,"Open Country:  Habitat Mosaic","Open Country:  Developed/Disturbed"
+"Alabama","amegfi","American Goldfinch","Spinus tristis","2012-2022","breeding",-17.2,-21.1,-13.3,-12.1,-14.1,-10.5,"Open Country:  Habitat Mosaic",NA
+"Alabama","amekes","American Kestrel","Falco sparverius","2012-2022","breeding",-12.2,-18.3,-7.15,-20.3,-25,-14.5,"Open Country:  Habitat Mosaic",NA
+"Alabama","ameoys","American Oystercatcher","Haematopus palliatus","2012-2022","breeding",-20.1,-29.4,-12.9,2.54,-3.23,8.02,"Coasts:  Beach and Estuary",NA
+"Alabama","amepip","American Pipit","Anthus rubescens","2012-2022","nonbreeding",-46.7,-51.5,-41.4,-19.2,-21.8,-16.1,"Tundra:  Alpine","Tundra:  Arctic"
+"Alabama","amered","American Redstart","Setophaga ruticilla","2012-2022","breeding",-4.04,-9.81,4.68,6.15,3.89,8.6,"Forests:  Temperate Generalist",NA
+"Alabama","amerob","American Robin","Turdus migratorius","2012-2022","breeding",-13.4,-19.1,-7.13,-4.16,-6.56,-1.83,"Forests:  Temperate Generalist",NA
+"Alabama","amewig","American Wigeon","Mareca americana","2012-2022","nonbreeding",-32.9,-39,-26.4,-14.6,-17.1,-11.7,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","amwpel","American White Pelican","Pelecanus erythrorhynchos","2012-2022","breeding",-0.499,-9.19,14.5,4.79,-0.0718,10.1,"Wetlands:  Lakes and Rivers",NA
+"Alabama","anhing","Anhinga","Anhinga anhinga","2012-2022","breeding",13.2,6.45,31.8,15.6,11.9,19.9,"Wetlands:  Generalist",NA
+"Alabama","bacspa","Bachman's Sparrow","Peucaea aestivalis","2012-2022","year_round",11.4,2.06,21.2,-11.4,-16.3,-4.94,"Forests:  Temperate Eastern",NA
+"Alabama","baleag","Bald Eagle","Haliaeetus leucocephalus","2012-2022","breeding",20.3,8.28,27.4,8.19,1.67,16.5,"Wetlands:  Generalist","Coasts:  Beach and Estuary"
+"Alabama","balori","Baltimore Oriole","Icterus galbula","2012-2022","breeding",-6.88,-13.3,-1.48,12.1,8.58,14.4,"Forests:  Temperate Eastern",NA
+"Alabama","barswa","Barn Swallow","Hirundo rustica","2012-2022","breeding",-25.5,-31.8,-21.6,-15.6,-18.2,-12.7,"Open Country Aerial:  Habitat Mosaic",NA
+"Alabama","bawwar","Black-and-white Warbler","Mniotilta varia","2012-2022","breeding",20.2,11.5,28.2,18.3,15.2,20.6,"Forests:  Temperate Eastern","Forests:  Boreal"
+"Alabama","bbwduc","Black-bellied Whistling-Duck","Dendrocygna autumnalis","2012-2022","breeding",33.3,23.6,53.2,20.9,17.8,24,"Wetlands:  Generalist",NA
+"Alabama","bcnher","Black-crowned Night Heron","Nycticorax nycticorax","2012-2022","breeding",-24.6,-30.4,-6.88,-20.9,-24.9,-17.3,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","belkin1","Belted Kingfisher","Megaceryle alcyon","2012-2022","breeding",-10.3,-15.5,-3.49,-3.35,-16.2,0.971,"Wetlands:  Generalist",NA
+"Alabama","bkbplo","Black-bellied Plover","Pluvialis squatarola","2012-2022","nonbreeding",-13.9,-21.6,-6.08,-14,-18.4,-8.34,"Wetlands:  Tundra","Tundra:  Arctic"
+"Alabama","bknsti","Black-necked Stilt","Himantopus mexicanus","2012-2022","breeding",-15.3,-24,-1.52,-3.39,-9.22,2.55,"Wetlands:  Freshwater Marsh",NA
+"Alabama","blksco2","Black Scoter","Melanitta americana","2012-2022","nonbreeding",-33.7,-44.8,-27.5,11.7,5.64,20.2,"Wetlands:  Tundra",NA
+"Alabama","blkski","Black Skimmer","Rynchops niger","2012-2022","breeding",-35.1,-44.3,-28.2,-26.6,-32.5,-20.8,"Coasts:  Beach and Estuary","Coasts:  Saltmarsh"
+"Alabama","blkter","Black Tern","Chlidonias niger","2012-2022","breeding",-45.4,-54.8,-33.7,-33.7,-39,-30.2,"Wetlands:  Freshwater Marsh",NA
+"Alabama","blkvul","Black Vulture","Coragyps atratus","2012-2022","year_round",-1.92,-10.5,4.77,-1.87,-5.31,1.72,"Open Country:  Habitat Mosaic","Open Country:  Developed/Disturbed"
+"Alabama","blugrb1","Blue Grosbeak","Passerina caerulea","2012-2022","breeding",-10.3,-21.1,-2.66,6.1,-2.07,10.3,"Forests:  Temperate Eastern","Aridlands:  Desert Riparian"
+"Alabama","blujay","Blue Jay","Cyanocitta cristata","2012-2022","breeding",0.921,-2.38,3.33,13.1,11.7,14.5,"Forests:  Temperate Eastern",NA
+"Alabama","bnhcow","Brown-headed Cowbird","Molothrus ater","2012-2022","breeding",-0.538,-5.4,8.45,2.34,-1.02,4.86,"Open Country:  Habitat Mosaic",NA
+"Alabama","bnhnut","Brown-headed Nuthatch","Sitta pusilla","2012-2022","year_round",2.18,-4.54,11.9,2.91,-1.37,5.86,"Forests:  Temperate Eastern",NA
+"Alabama","bongul","Bonaparte's Gull","Chroicocephalus philadelphia","2012-2022","nonbreeding",-4.63,-14.7,8.06,-27,-31.8,-22.8,"Wetlands:  Boreal",NA
+"Alabama","botgra","Boat-tailed Grackle","Quiscalus major","2012-2022","year_round",-10.3,-19.3,-1.76,-12.4,-14.8,-9.39,"Coasts:  Saltmarsh","Wetlands:  Freshwater Marsh"
+"Alabama","brdowl","Barred Owl","Strix varia","2012-2022","year_round",24.5,-0.108,39.9,18.8,9.33,27.9,"Forests:  Temperate Eastern","Forests:  Temperate Western"
+"Alabama","brnowl","Barn Owl","Tyto alba","2012-2022","year_round",7.46,-18.3,16.2,-17.4,-23.8,-8.47,"Open Country:  Habitat Mosaic","Open Country:  Developed/Disturbed"
+"Alabama","brnpel","Brown Pelican","Pelecanus occidentalis","2012-2022","breeding",-10.8,-15.5,-4.6,-8.95,-13.2,-6.1,"Coasts:  Beach and Estuary","Coasts:  Marine Waters"
+"Alabama","brnthr","Brown Thrasher","Toxostoma rufum","2012-2022","breeding",10.1,0.325,17.7,-10,-13.7,-7.52,"Forests:  Temperate Eastern",NA
+"Alabama","brwhaw","Broad-winged Hawk","Buteo platypterus","2012-2022","breeding",7.53,1.14,14.8,24.3,16.7,34,"Forests:  Boreal","Forests:  Temperate Eastern"
+"Alabama","btnwar","Black-throated Green Warbler","Setophaga virens","2012-2022","breeding",-4.33,-14.2,2.56,-17.3,-19.6,-14.2,"Forests:  Boreal","Forests:  Temperate Eastern"
+"Alabama","buffle","Bufflehead","Bucephala albeola","2012-2022","nonbreeding",-13.1,-17.6,-8.1,-8.4,-10.8,-6.53,"Wetlands:  Forested","Wetlands:  Lakes and Rivers"
+"Alabama","buggna","Blue-gray Gnatcatcher","Polioptila caerulea","2012-2022","breeding",-2.28,-8.53,5.02,2.53,-1.27,7.66,"Forests:  Generalist",NA
+"Alabama","buhvir","Blue-headed Vireo","Vireo solitarius","2012-2022","breeding",19.6,2.64,35.4,13.8,9.69,18.3,"Forests:  Boreal","Forests:  Temperate Eastern"
+"Alabama","buwtea","Blue-winged Teal","Spatula discors","2012-2022","breeding",-19.9,-32.6,-10.1,-7.96,-12.6,-3.46,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","buwwar","Blue-winged Warbler","Vermivora cyanoptera","2012-2022","breeding",-11.9,-23.4,-8.57,-14.9,-18.1,-11.5,"Forests:  Temperate Eastern",NA
+"Alabama","cangoo","Canada Goose","Branta canadensis","2012-2022","breeding",-9.23,-13.6,-5.38,-1.52,-6.38,2.14,"Wetlands:  Generalist",NA
+"Alabama","canvas","Canvasback","Aythya valisineria","2012-2022","nonbreeding",-36.4,-40.5,-32.5,-26.7,-31.6,-21.2,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","carchi","Carolina Chickadee","Poecile carolinensis","2012-2022","year_round",-1.27,-2.87,0.601,1.65,0.00968,3.07,"Forests:  Temperate Eastern",NA
+"Alabama","carwre","Carolina Wren","Thryothorus ludovicianus","2012-2022","year_round",14.5,7.52,19,15.5,13,17.8,"Forests:  Temperate Eastern",NA
+"Alabama","caster1","Caspian Tern","Hydroprogne caspia","2012-2022","breeding",-32.3,-47.1,-16,-25.6,-36,-15.7,"Wetlands:  Lakes and Rivers",NA
+"Alabama","categr","Western/Eastern Cattle Egret","Bubulcus ibis/coromandus","2012-2022","breeding",-38.3,-48.3,-30.6,-25.7,-29.2,-22.8,"Grasslands:  Temperate","Grasslands:  Temperate"
+"Alabama","cedwax","Cedar Waxwing","Bombycilla cedrorum","2012-2022","breeding",-10.4,-19.1,-2.86,-11.7,-14.9,-9.12,"Forests:  Temperate Generalist",NA
+"Alabama","cerwar","Cerulean Warbler","Setophaga cerulea","2012-2022","breeding",-24.4,-28.2,-16.6,-8.38,-12.6,-2.85,"Forests:  Temperate Eastern",NA
+"Alabama","chispa","Chipping Sparrow","Spizella passerina","2012-2022","breeding",-2.59,-7.66,4.36,-14.6,-17,-13.2,"Forests:  Temperate Generalist",NA
+"Alabama","chiswi","Chimney Swift","Chaetura pelagica","2012-2022","breeding",-19,-24.2,-13.4,-13.7,-15.9,-12,"Open Country Aerial:  Developed/Disturbed","Open Country Aerial:  Habitat Mosaic"
+"Alabama","chwwid","Chuck-will's-widow","Antrostomus carolinensis","2012-2022","breeding",-25.2,-33.2,-20.6,-23,-26,-20,"Forests:  Temperate Eastern",NA
+"Alabama","clarai11","Clapper Rail","Rallus crepitans","2012-2022","breeding",24.6,15.9,61.4,21.4,17.1,25.4,"Coasts:  Saltmarsh",NA
+"Alabama","cliswa","Cliff Swallow","Petrochelidon pyrrhonota","2012-2022","breeding",-35.5,-40.3,-29,-15.6,-18.4,-12.1,"Open Country Aerial:  Habitat Mosaic",NA
+"Alabama","cogdov","Common Ground Dove","Columbina passerina","2012-2022","breeding",6.12,-3.98,18.2,-14.8,-18.2,-12,"Aridlands:  Desert Scrub","Forests:  Tropical Dry"
+"Alabama","comgal1","Common Gallinule","Gallinula galeata","2012-2022","breeding",-5.68,-12.5,7.43,10.7,7.04,14.5,"Wetlands:  Freshwater Marsh",NA
+"Alabama","comgol","Common Goldeneye","Bucephala clangula","2012-2022","nonbreeding",-23.6,-30.3,-19.6,-12.9,-23,-2.35,"Wetlands:  Forested","Wetlands:  Lakes and Rivers"
+"Alabama","comgra","Common Grackle","Quiscalus quiscula","2012-2022","breeding",-14.1,-18.1,-9.54,-9.48,-13,-5.86,"Open Country:  Habitat Mosaic",NA
+"Alabama","comloo","Common Loon","Gavia immer","2012-2022","nonbreeding",-13.9,-21.6,-4.07,-17,-21.7,-13,"Wetlands:  Lakes and Rivers",NA
+"Alabama","comnig","Common Nighthawk","Chordeiles minor","2012-2022","breeding",-26.5,-36.8,-13.8,-0.782,-4.92,4.56,"Open Country Aerial:  Habitat Mosaic",NA
+"Alabama","comyel","Common Yellowthroat","Geothlypis trichas","2012-2022","breeding",-6.57,-10.3,2.42,-4.18,-6.81,-2.44,"Open Country:  Habitat Mosaic","Wetlands:  Freshwater Marsh"
+"Alabama","coohaw","Cooper's Hawk","Accipiter cooperii","2012-2022","breeding",-10.8,-14.6,-1.25,-2.88,-11.4,5.64,"Forests:  Temperate Generalist",NA
+"Alabama","dickci","Dickcissel","Spiza americana","2012-2022","breeding",-51.3,-55.3,-48.1,-4.46,-7.44,-1.49,"Grasslands:  Temperate",NA
+"Alabama","doccor","Double-crested Cormorant","Nannopterum auritum","2012-2022","breeding",1.29,-2.65,10.8,-9.9,-12.9,-6.79,"Wetlands:  Generalist","Coasts:  Beach and Estuary"
+"Alabama","dowwoo","Downy Woodpecker","Dryobates pubescens","2012-2022","year_round",23.1,17,28.1,17.6,16,20.3,"Forests:  Temperate Generalist",NA
+"Alabama","dunlin","Dunlin","Calidris alpina","2012-2022","nonbreeding",-25.2,-31.8,-16.7,-32,-36.4,-24.2,"Wetlands:  Tundra","Coasts:  Tundra"
+"Alabama","easblu","Eastern Bluebird","Sialia sialis","2012-2022","breeding",-9.52,-18.7,-2.34,-22.1,-25.3,-20.2,"Forests:  Temperate Eastern","Forests:  Mesoamerican Pine-Oak"
+"Alabama","easkin","Eastern Kingbird","Tyrannus tyrannus","2012-2022","breeding",-9.52,-15.3,-4.48,4.93,2.57,7.99,"Open Country:  Habitat Mosaic","Grasslands:  Temperate"
+"Alabama","easmea","Eastern Meadowlark","Sturnella magna","2012-2022","breeding",-35.5,-41.1,-32.6,-23,-24.6,-17.7,"Grasslands:  Temperate","Grasslands:  Tropical"
+"Alabama","easowl1","Eastern Screech-Owl","Megascops asio","2012-2022","year_round",-19,-36.1,-8.72,-4.28,-29.6,13.1,"Forests:  Temperate Eastern",NA
+"Alabama","easpho","Eastern Phoebe","Sayornis phoebe","2012-2022","breeding",-3.94,-9.25,4.28,-12.8,-16.5,-11.3,"Open Country:  Habitat Mosaic","Forests:  Temperate Eastern"
+"Alabama","eastow","Eastern Towhee","Pipilo erythrophthalmus","2012-2022","breeding",-21.4,-25,-16.2,-15.1,-17.7,-12.5,"Forests:  Temperate Eastern",NA
+"Alabama","easwpw1","Eastern Whip-poor-will","Antrostomus vociferus","2012-2022","breeding",-13.7,-18.4,-1.4,-15.4,-21.1,-11.1,"Forests:  Temperate Eastern",NA
+"Alabama","eawpew","Eastern Wood-Pewee","Contopus virens","2012-2022","breeding",16.3,10.5,22.3,17.9,16.2,20.3,"Forests:  Temperate Eastern",NA
+"Alabama","eucdov","Eurasian Collared-Dove","Streptopelia decaocto","2012-2022","year_round",-19.7,-26.9,-2.97,-3.02,-5.6,1.58,"Open Country:  Developed/Disturbed",NA
+"Alabama","eursta","European Starling","Sturnus vulgaris","2012-2022","breeding",-23.5,-27.6,-19.1,-14.9,-17.5,-12.8,"Open Country:  Developed/Disturbed",NA
+"Alabama","fiespa","Field Sparrow","Spizella pusilla","2012-2022","breeding",-24.9,-28.3,-18.9,-9.85,-11.9,-2.65,"Open Country:  Habitat Mosaic","Forests:  Temperate Eastern"
+"Alabama","fiscro","Fish Crow","Corvus ossifragus","2012-2022","breeding",5.49,-10.7,14.7,12.2,7.91,15.6,"Open Country:  Habitat Mosaic","Wetlands:  Generalist"
+"Alabama","forter","Forster's Tern","Sterna forsteri","2012-2022","breeding",-20.9,-31.2,-15.3,-16.5,-21.8,-11.5,"Wetlands:  Freshwater Marsh",NA
+"Alabama","foxspa","Fox Sparrow","Passerella iliaca","2012-2022","nonbreeding",-32.6,-35.7,-16.5,-18.4,-22.9,-13.5,"Forests:  Boreal","Forests:  Temperate Western"
+"Alabama","gadwal","Gadwall","Mareca strepera","2012-2022","breeding",-31.8,-42.2,-22.3,21.2,15.8,27.7,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","gloibi","Glossy Ibis","Plegadis falcinellus","2012-2022","breeding",-15.6,-33.2,0.601,21.1,14.3,31.4,"Coasts:  Saltmarsh","Wetlands:  Freshwater Marsh"
+"Alabama","gnwtea","Green-winged Teal","Anas crecca","2012-2022","nonbreeding",-32.6,-36.9,-28.2,-15.5,-20.7,-9.38,"Wetlands:  Generalist",NA
+"Alabama","graspa","Grasshopper Sparrow","Ammodramus savannarum","2012-2022","breeding",-51.6,-56.8,-45.7,-15.6,-17.8,-11.2,"Grasslands:  Temperate",NA
+"Alabama","grbher3","Great Blue Heron","Ardea herodias","2012-2022","breeding",-12.9,-15.2,-9.78,-10.8,-14.1,-8.23,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","grcfly","Great Crested Flycatcher","Myiarchus crinitus","2012-2022","breeding",2.7,-1.82,10.8,13.4,8.14,16.7,"Forests:  Temperate Eastern",NA
+"Alabama","greegr","Great Egret","Ardea alba","2012-2022","breeding",-19,-25.7,-12.9,-14.6,-19.1,-11.1,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","gresca","Greater Scaup","Aythya marila","2012-2022","nonbreeding",-25.6,-31.7,-16.3,-14.4,-21.1,-7.61,"Wetlands:  Tundra",NA
+"Alabama","greyel","Greater Yellowlegs","Tringa melanoleuca","2012-2022","breeding",-11.2,-32.1,10.7,28.6,17,38.4,"Wetlands:  Boreal",NA
+"Alabama","grhowl","Great Horned Owl","Bubo virginianus","2012-2022","year_round",-20.4,-45.1,-8.46,-1,-6.32,16.6,"Open Country:  Habitat Mosaic",NA
+"Alabama","grnher","Green Heron","Butorides virescens","2012-2022","breeding",-19.1,-24,-11.5,-8.21,-11.4,-3.63,"Wetlands:  Freshwater Marsh",NA
+"Alabama","grycat","Gray Catbird","Dumetella carolinensis","2012-2022","breeding",-3.51,-9.52,5.84,5.78,2.91,8.86,"Forests:  Temperate Eastern","Forests:  Temperate Western"
+"Alabama","grykin","Gray Kingbird","Tyrannus dominicensis","2012-2022","breeding",-14.1,-28.6,2.7,8.06,1.63,14.3,"Coasts:  Mangroves","Islands:  Terrestrial Habitats"
+"Alabama","gubter1","Gull-billed/Australian Tern","Gelochelidon nilotica/macrotarsa","2012-2022","breeding",-24.8,-33.3,-7.82,-1.02,-9.32,4.69,"Coasts:  Beach and Estuary","Coasts:  Beach and Estuary"
+"Alabama","gwfgoo","Greater White-fronted Goose","Anser albifrons","2012-2022","nonbreeding",13.1,0.41,25.4,15.3,7.73,25.2,"Wetlands:  Tundra",NA
+"Alabama","haiwoo","Hairy Woodpecker","Dryobates villosus","2012-2022","year_round",16.1,5.82,20.1,13.9,8.95,21.5,"Forests:  Generalist",NA
+"Alabama","hergul","Herring Gull","Larus argentatus","2012-2022","nonbreeding",-29.8,-34,-24.9,-23.7,-28.7,-19.5,"Coasts:  Beach and Estuary","Wetlands:  Lakes and Rivers"
+"Alabama","hoomer","Hooded Merganser","Lophodytes cucullatus","2012-2022","nonbreeding",-14.5,-19.6,-8.64,-9.29,-12.1,-6.8,"Wetlands:  Forested","Wetlands:  Lakes and Rivers"
+"Alabama","hoowar","Hooded Warbler","Setophaga citrina","2012-2022","breeding",26.9,20.3,37.9,10.8,6.73,14.6,"Forests:  Temperate Eastern",NA
+"Alabama","horgre","Horned Grebe","Podiceps auritus","2012-2022","nonbreeding",-40.6,-51.8,-35.2,-30.2,-35.5,-16.6,"Wetlands:  Freshwater Marsh",NA
+"Alabama","horlar","Horned Lark","Eremophila alpestris","2012-2022","breeding",-61.2,-69.4,-49.7,-14.2,-17.6,-6.84,"Grasslands:  Temperate","Tundra:  Arctic"
+"Alabama","houfin","House Finch","Haemorhous mexicanus","2012-2022","year_round",42.6,35.3,49.1,0.462,-3.98,4.55,"Open Country:  Habitat Mosaic","Aridlands:  Desert Scrub"
+"Alabama","houspa","House Sparrow","Passer domesticus","2012-2022","year_round",1.45,-1.73,6.41,10.9,5.62,17.1,"Open Country:  Developed/Disturbed",NA
+"Alabama","houwre","House Wren","Troglodytes aedon","2012-2022","breeding",2.32,-3.25,10.9,3.02,0.929,5.57,"Forests:  Generalist","Open Country:  Developed/Disturbed"
+"Alabama","incdov","Inca Dove","Columbina inca","2012-2022","year_round",-12.9,-36.9,3.51,-0.846,-4.81,3.23,"Open Country:  Habitat Mosaic",NA
+"Alabama","indbun","Indigo Bunting","Passerina cyanea","2012-2022","breeding",-15.8,-20.6,-10.2,-8.57,-10.6,-6.68,"Forests:  Temperate Eastern",NA
+"Alabama","kenwar","Kentucky Warbler","Geothlypis formosa","2012-2022","breeding",6.39,0.748,11.2,5.48,3.02,9.71,"Forests:  Temperate Eastern",NA
+"Alabama","killde","Killdeer","Charadrius vociferus","2012-2022","breeding",-19.8,-26.5,-8.97,-15.7,-20.1,-12,"Open Country:  Habitat Mosaic","Wetlands:  Generalist"
+"Alabama","kinrai4","King Rail","Rallus elegans","2012-2022","breeding",0.83,-6.42,10.7,15.2,7.72,25.4,"Wetlands:  Freshwater Marsh",NA
+"Alabama","laplon","Lapland Longspur","Calcarius lapponicus","2012-2022","nonbreeding",-65.7,-69.5,-58.5,3.57,-10.6,14,"Tundra:  Arctic",NA
+"Alabama","larspa","Lark Sparrow","Chondestes grammacus","2012-2022","breeding",-50.2,-55.1,-35.1,-16,-18.9,-13.3,"Open Country:  Habitat Mosaic",NA
+"Alabama","laugul","Laughing Gull","Leucophaeus atricilla","2012-2022","breeding",-16.8,-26.8,-9.14,-21.8,-27.5,-17.5,"Coasts:  Beach and Estuary","Coasts:  Marine Waters"
+"Alabama","lbbgul","Lesser Black-backed Gull","Larus fuscus","2012-2022","nonbreeding",-5.54,-16.5,3.09,38.7,30.2,50.4,"Coasts:  Beach and Estuary","Coasts:  Marine Waters"
+"Alabama","leabit","Least Bittern","Ixobrychus exilis","2012-2022","breeding",-1.74,-12.9,6.62,-3.95,-8.56,2.82,"Wetlands:  Freshwater Marsh",NA
+"Alabama","leasan","Least Sandpiper","Calidris minutilla","2012-2022","nonbreeding",-13,-22.6,-6.36,-4.55,-7.48,1.29,"Wetlands:  Tundra",NA
+"Alabama","leater1","Least Tern","Sternula antillarum","2012-2022","breeding",-10,-19.1,-1.64,-8.45,-13.3,-4.33,"Coasts:  Beach and Estuary","Wetlands:  Lakes and Rivers"
+"Alabama","lessca","Lesser Scaup","Aythya affinis","2012-2022","nonbreeding",-27.7,-31.8,-22.6,-20.6,-24.1,-18.1,"Wetlands:  Lakes and Rivers","Wetlands:  Freshwater Marsh"
+"Alabama","lesyel","Lesser Yellowlegs","Tringa flavipes","2012-2022","breeding",-24.2,-32.7,-6.12,-12.7,-20.8,-5.92,"Wetlands:  Boreal",NA
+"Alabama","libher","Little Blue Heron","Egretta caerulea","2012-2022","breeding",-14.7,-23.6,-9.4,-4.96,-8.65,-1,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","limpki","Limpkin","Aramus guarauna","2012-2022","year_round",97.2,56,117,30.2,19.9,37.2,"Wetlands:  Lakes and Rivers","Wetlands:  Freshwater Marsh"
+"Alabama","lobdow","Long-billed Dowitcher","Limnodromus scolopaceus","2012-2022","nonbreeding",-12.8,-19.3,-5.88,-18.8,-23.9,-13.2,"Wetlands:  Tundra",NA
+"Alabama","logshr","Loggerhead Shrike","Lanius ludovicianus","2012-2022","breeding",-32.7,-36.2,-29.3,-26.1,-28.7,-19.7,"Grasslands:  Temperate","Aridlands:  Desert Scrub"
+"Alabama","louwat","Louisiana Waterthrush","Parkesia motacilla","2012-2022","breeding",9.6,3.28,19.7,4.62,1.18,8.57,"Wetlands:  Lakes and Rivers","Forests:  Temperate Eastern"
+"Alabama","magfri","Magnificent Frigatebird","Fregata magnificens","2012-2022","breeding",8.64,0.236,19.9,-9.53,-13.2,-5.39,"Coasts:  Mangroves","Coasts:  Marine Waters"
+"Alabama","mallar3","Mallard","Anas platyrhynchos","2012-2022","breeding",-31.2,-35,-28.1,-12.4,-16,-9.14,"Wetlands:  Generalist",NA
+"Alabama","marwre","Marsh Wren","Cistothorus palustris","2012-2022","breeding",-28.3,-37.9,-9.77,13.5,8.9,18.3,"Wetlands:  Freshwater Marsh",NA
+"Alabama","miskit","Mississippi Kite","Ictinia mississippiensis","2012-2022","breeding",2.31,-7.36,9.19,18.4,14.3,27.2,"Forests:  Temperate Eastern",NA
+"Alabama","motduc","Mottled Duck","Anas fulvigula","2012-2022","year_round",-29.4,-37.4,-21.9,-22,-26.3,-17.3,"Wetlands:  Freshwater Marsh",NA
+"Alabama","moudov","Mourning Dove","Zenaida macroura","2012-2022","breeding",-17.2,-21,-15.1,-9.76,-12.3,-6.65,"Open Country:  Habitat Mosaic","Open Country:  Developed/Disturbed"
+"Alabama","norbob","Northern Bobwhite","Colinus virginianus","2012-2022","year_round",-30.1,-36.9,-23.3,-31.1,-37.5,-27.5,"Open Country:  Habitat Mosaic","Forests:  Tropical Dry"
+"Alabama","norcar","Northern Cardinal","Cardinalis cardinalis","2012-2022","year_round",4.39,0.539,10.5,9.51,7.35,12.1,"Open Country:  Habitat Mosaic","Aridlands:  Desert Scrub"
+"Alabama","norfli","Northern Flicker","Colaptes auratus","2012-2022","breeding",-11.7,-21.1,-5.96,-7.84,-10.7,-2.06,"Forests:  Generalist",NA
+"Alabama","normoc","Northern Mockingbird","Mimus polyglottos","2012-2022","breeding",-19.5,-24.1,-14.2,-9.94,-11.8,-7.49,"Open Country:  Habitat Mosaic",NA
+"Alabama","norpar","Northern Parula","Setophaga americana","2012-2022","breeding",15.4,11.8,29.4,26.7,23.1,36.5,"Forests:  Temperate Eastern","Forests:  Boreal"
+"Alabama","norpin","Northern Pintail","Anas acuta","2012-2022","nonbreeding",-16.7,-21,-7.03,-10.5,-13.9,-5.28,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Tundra"
+"Alabama","norsho","Northern Shoveler","Spatula clypeata","2012-2022","nonbreeding",-43.1,-47.9,-38.2,-17.6,-22.6,-13,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","nrwswa","Northern Rough-winged Swallow","Stelgidopteryx serripennis","2012-2022","breeding",-23.3,-31,-17.7,-10.4,-13.5,-6,"Open Country Aerial:  Habitat Mosaic","Wetlands Aerial:  Lakes and Rivers"
+"Alabama","orcori","Orchard Oriole","Icterus spurius","2012-2022","breeding",-7.82,-18.5,-0.18,5.6,1.21,13.1,"Forests:  Temperate Eastern",NA
+"Alabama","osprey","Osprey","Pandion haliaetus","2012-2022","breeding",14.3,3.67,22.8,-5.66,-6.9,-2.82,"Wetlands:  Lakes and Rivers","Coasts:  Saltmarsh"
+"Alabama","ovenbi1","Ovenbird","Seiurus aurocapilla","2012-2022","breeding",-4.12,-11.6,-0.659,-0.237,-2.99,3.14,"Forests:  Temperate Eastern","Forests:  Boreal"
+"Alabama","paibun","Painted Bunting","Passerina ciris","2012-2022","breeding",-24,-28.7,-9.04,27,22.9,31.3,"Forests:  Temperate Eastern","Forests:  Tropical Dry"
+"Alabama","palwar","Palm Warbler","Setophaga palmarum","2012-2022","nonbreeding",12.6,6.68,17.4,-2.37,-5.09,0.145,"Wetlands:  Boreal",NA
+"Alabama","pibgre","Pied-billed Grebe","Podilymbus podiceps","2012-2022","breeding",-36.3,-45.5,-32.4,-18.1,-22.5,-10.8,"Wetlands:  Freshwater Marsh",NA
+"Alabama","pilwoo","Pileated Woodpecker","Dryocopus pileatus","2012-2022","year_round",15.2,13.3,21.6,14,11.2,18.5,"Forests:  Temperate Generalist",NA
+"Alabama","pinwar","Pine Warbler","Setophaga pinus","2012-2022","breeding",17.8,8.4,31.6,14.2,8.41,19.9,"Forests:  Temperate Eastern",NA
+"Alabama","prawar","Prairie Warbler","Setophaga discolor","2012-2022","breeding",-2.17,-11.4,6.07,-12.4,-15.6,-7.16,"Forests:  Temperate Eastern",NA
+"Alabama","prowar","Prothonotary Warbler","Protonotaria citrea","2012-2022","breeding",3.81,-3.77,9.75,3.35,1.05,9.88,"Wetlands:  Forested","Forests:  Temperate Eastern"
+"Alabama","purgal2","Purple Gallinule","Porphyrio martinica","2012-2022","breeding",-7.7,-22.5,9.03,32.9,26.7,38.3,"Wetlands:  Freshwater Marsh",NA
+"Alabama","purmar","Purple Martin","Progne subis","2012-2022","breeding",-6.62,-12.4,-0.0361,0.506,-4.42,4.15,"Open Country Aerial:  Habitat Mosaic","Wetlands Aerial:  Lakes and Rivers"
+"Alabama","rebmer","Red-breasted Merganser","Mergus serrator","2012-2022","nonbreeding",-16.2,-22.7,-8.5,-14.6,-30.1,3.55,"Wetlands:  Tundra","Wetlands:  Boreal"
+"Alabama","rebwoo","Red-bellied Woodpecker","Melanerpes carolinus","2012-2022","year_round",5.32,1.28,11.3,15.7,13.5,18.3,"Forests:  Temperate Eastern",NA
+"Alabama","recwoo","Red-cockaded Woodpecker","Dryobates borealis","2012-2022","year_round",-7.25,-14.2,3.41,-13.3,-21.6,-8.99,"Forests:  Temperate Eastern",NA
+"Alabama","redegr","Reddish Egret","Egretta rufescens","2012-2022","year_round",2.27,-13.3,20.9,2.19,-7.88,11.6,"Coasts:  Mangroves","Coasts:  Beach and Estuary"
+"Alabama","redhea","Redhead","Aythya americana","2012-2022","breeding",-22.6,-33.8,-6.31,0.333,-8.05,7.41,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","reevir1","Red-eyed Vireo","Vireo olivaceus","2012-2022","breeding",7.45,3.28,12,12.2,8.8,14,"Forests:  Temperate Generalist",NA
+"Alabama","rehwoo","Red-headed Woodpecker","Melanerpes erythrocephalus","2012-2022","breeding",-2.69,-11.1,5.49,22,16.6,30.4,"Forests:  Temperate Eastern",NA
+"Alabama","reshaw","Red-shouldered Hawk","Buteo lineatus","2012-2022","breeding",40,26.6,59.5,34,29.8,39.7,"Forests:  Temperate Eastern","Forests:  Temperate Western"
+"Alabama","rethaw","Red-tailed Hawk","Buteo jamaicensis","2012-2022","breeding",-19.4,-30.6,-10.1,-6.03,-9.73,-3.15,"Open Country:  Habitat Mosaic",NA
+"Alabama","rewbla","Red-winged Blackbird","Agelaius phoeniceus","2012-2022","breeding",-29.7,-32.4,-25.8,-6.22,-9,-3.04,"Open Country:  Habitat Mosaic","Wetlands:  Freshwater Marsh"
+"Alabama","ribgul","Ring-billed Gull","Larus delawarensis","2012-2022","nonbreeding",-34.4,-37.8,-31,-30.6,-34.4,-26.4,"Wetlands:  Generalist",NA
+"Alabama","rinduc","Ring-necked Duck","Aythya collaris","2012-2022","nonbreeding",-29.4,-35.1,-21.5,-10.9,-16.1,-6.83,"Wetlands:  Boreal",NA
+"Alabama","rocpig","Rock Pigeon","Columba livia","2012-2022","year_round",-35.3,-39.7,-30.9,-19.9,-24.1,-13.5,"Open Country:  Developed/Disturbed",NA
+"Alabama","rosspo1","Roseate Spoonbill","Platalea ajaja","2012-2022","breeding",-9.99,-17.9,0.402,-12.1,-16.3,-7.2,"Coasts:  Mangroves","Wetlands:  Freshwater Marsh"
+"Alabama","royter1","Royal Tern","Thalasseus maximus","2012-2022","breeding",-5.51,-10.1,4.32,7.87,1.74,15.6,"Coasts:  Beach and Estuary","Coasts:  Marine Waters"
+"Alabama","rthhum","Ruby-throated Hummingbird","Archilochus colubris","2012-2022","breeding",12.3,8.13,21.9,18,13.1,20.6,"Forests:  Temperate Eastern",NA
+"Alabama","rudduc","Ruddy Duck","Oxyura jamaicensis","2012-2022","breeding",-24.7,-45.8,3,-8.59,-12.3,-4.83,"Wetlands:  Seasonally Wet Grasslands","Wetlands:  Freshwater Marsh"
+"Alabama","rudtur","Ruddy Turnstone","Arenaria interpres","2012-2022","nonbreeding",-23,-27.8,-13.9,-10.8,-16.3,-4.09,"Coasts:  Tundra","Wetlands:  Tundra"
+"Alabama","rusbla","Rusty Blackbird","Euphagus carolinus","2012-2022","nonbreeding",-45.5,-50.7,-40.2,-16.2,-21.5,-9.31,"Wetlands:  Boreal",NA
+"Alabama","sancra","Sandhill Crane","Antigone canadensis","2012-2022","nonbreeding",-23.9,-32.8,-17.7,-1.05,-8.18,7.34,"Wetlands:  Generalist",NA
+"Alabama","sander","Sanderling","Calidris alba","2012-2022","nonbreeding",-1.42,-6.73,4.99,-0.127,-5.17,5.42,"Tundra:  Arctic","Wetlands:  Tundra"
+"Alabama","santer1","Sandwich Tern","Thalasseus sandvicensis","2012-2022","breeding",1.45,-12.7,9.37,13.9,2.62,23.5,"Coasts:  Beach and Estuary","Coasts:  Marine Waters"
+"Alabama","scatan","Scarlet Tanager","Piranga olivacea","2012-2022","breeding",-12.4,-18.4,-5.52,-10.9,-14.6,-7.21,"Forests:  Temperate Eastern",NA
+"Alabama","sctfly","Scissor-tailed Flycatcher","Tyrannus forficatus","2012-2022","breeding",-37,-54.2,-17.4,-28.8,-31.4,-27,"Grasslands:  Temperate",NA
+"Alabama","seaspa","Seaside Sparrow","Ammospiza maritima","2012-2022","breeding",-29,-59,-6.35,-24.7,-32,-15.5,"Coasts:  Saltmarsh",NA
+"Alabama","shbdow","Short-billed Dowitcher","Limnodromus griseus","2012-2022","nonbreeding",-18.4,-27.4,-7.69,-20.5,-24.1,-14.5,"Wetlands:  Boreal",NA
+"Alabama","shshaw","Sharp-shinned Hawk","Accipiter striatus","2012-2022","breeding",-37,-41.4,-33.5,-41.2,-46.4,-29.3,"Forests:  Temperate Generalist",NA
+"Alabama","snoegr","Snowy Egret","Egretta thula","2012-2022","breeding",-30.7,-35.3,-25.8,-15.6,-19.6,-13.8,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","snogoo","Snow Goose","Anser caerulescens","2012-2022","nonbreeding",-11,-26.9,-0.761,33.4,24.1,54.7,"Wetlands:  Tundra","Tundra:  Arctic"
+"Alabama","snoplo5","Snowy Plover","Anarhynchus nivosus","2012-2022","breeding",-9.72,-16,-2.76,-10.8,-20.1,0.435,"Coasts:  Beach and Estuary","Wetlands:  Lakes and Rivers"
+"Alabama","sonspa","Song Sparrow","Melospiza melodia","2012-2022","breeding",-11.9,-16.7,-7.53,-2.41,-4.24,-0.633,"Open Country:  Habitat Mosaic",NA
+"Alabama","sposan","Spotted Sandpiper","Actitis macularius","2012-2022","breeding",-37.4,-53.8,-12.1,5.63,-4.21,12.4,"Wetlands:  Generalist",NA
+"Alabama","sumtan","Summer Tanager","Piranga rubra","2012-2022","breeding",19.8,12,33.5,22.6,17.5,26.3,"Forests:  Temperate Eastern",NA
+"Alabama","sursco","Surf Scoter","Melanitta perspicillata","2012-2022","nonbreeding",-17.1,-25.5,-2.7,-19.6,-25.9,-13.6,"Wetlands:  Boreal",NA
+"Alabama","swawar","Swainson's Warbler","Limnothlypis swainsonii","2012-2022","breeding",48.9,34,59.6,35.2,28.7,50.1,"Forests:  Temperate Eastern",NA
+"Alabama","swtkit","Swallow-tailed Kite","Elanoides forficatus","2012-2022","breeding",9.43,3.73,29.8,21.6,16.9,27.3,"Forests:  Temperate Eastern","Forests:  Tropical Montane Evergreen"
+"Alabama","treswa","Tree Swallow","Tachycineta bicolor","2012-2022","breeding",-23.2,-26.2,-20.9,-13.4,-16.5,-9.79,"Wetlands Aerial:  Generalist",NA
+"Alabama","triher","Tricolored Heron","Egretta tricolor","2012-2022","breeding",-11.2,-19.4,-4.93,-7.16,-10.3,-3.8,"Wetlands:  Generalist","Coasts:  Saltmarsh"
+"Alabama","tuftit","Tufted Titmouse","Baeolophus bicolor","2012-2022","year_round",0.0052,-5.18,2.8,1.17,-1,3.3,"Forests:  Temperate Eastern",NA
+"Alabama","tunswa","Tundra Swan","Cygnus columbianus","2012-2022","nonbreeding",-40,-50,-22.8,-27.3,-32.5,-21,"Wetlands:  Tundra",NA
+"Alabama","turvul","Turkey Vulture","Cathartes aura","2012-2022","breeding",-3.44,-10.1,3.38,11.5,8.12,15.1,"Open Country:  Habitat Mosaic",NA
+"Alabama","wessan","Western Sandpiper","Calidris mauri","2012-2022","nonbreeding",-23.1,-31.1,-17.4,-3.6,-8.91,5.48,"Wetlands:  Tundra",NA
+"Alabama","whbnut","White-breasted Nuthatch","Sitta carolinensis","2012-2022","year_round",19.4,13.3,26,13.2,10.4,16.1,"Forests:  Temperate Eastern","Forests:  Temperate Western"
+"Alabama","whevir","White-eyed Vireo","Vireo griseus","2012-2022","breeding",15.8,11,23.7,20.6,18.4,23.3,"Forests:  Temperate Eastern","Forests:  Tropical Dry"
+"Alabama","whiibi","White Ibis","Eudocimus albus","2012-2022","breeding",9.04,-1.68,19.1,2.53,-0.435,5.97,"Wetlands:  Generalist","Coasts:  Mangroves"
+"Alabama","whwdov","White-winged Dove","Zenaida asiatica","2012-2022","breeding",-11,-22.3,1.9,7.52,4.48,12,"Aridlands:  Desert Scrub","Forests:  Tropical Dry"
+"Alabama","whwsco2","White-winged Scoter","Melanitta deglandi","2012-2022","nonbreeding",-26.8,-36,-19.4,-17.9,-37,7.08,"Wetlands:  Lakes and Rivers",NA
+"Alabama","willet1","Willet","Tringa semipalmata","2012-2022","breeding",-33.5,-38.6,-27.3,-3.68,-6.32,-0.302,"Wetlands:  Seasonally Wet Grasslands","Coasts:  Saltmarsh"
+"Alabama","wilplo","Wilson's Plover","Anarhynchus wilsonia","2012-2022","breeding",-25.1,-44,-8.04,-4.63,-11.4,2.59,"Coasts:  Beach and Estuary",NA
+"Alabama","wiltur","Wild Turkey","Meleagris gallopavo","2012-2022","year_round",-25.5,-33.7,-4.88,-2.47,-6.02,6.52,"Forests:  Temperate Generalist",NA
+"Alabama","woewar1","Worm-eating Warbler","Helmitheros vermivorum","2012-2022","breeding",-10.3,-17.9,-3.42,-19.2,-21.7,-16.8,"Forests:  Temperate Eastern",NA
+"Alabama","wooduc","Wood Duck","Aix sponsa","2012-2022","breeding",-9.74,-20.2,0.866,5.11,0.495,9.26,"Wetlands:  Forested","Forests:  Temperate Eastern"
+"Alabama","woosto","Wood Stork","Mycteria americana","2012-2022","breeding",-31.2,-38.9,-23.4,-11.7,-17.1,-6.22,"Wetlands:  Forested","Wetlands:  Freshwater Marsh"
+"Alabama","woothr","Wood Thrush","Hylocichla mustelina","2012-2022","breeding",21.1,14.2,28.9,12.4,8.09,15.3,"Forests:  Temperate Eastern",NA
+"Alabama","y00475","American Coot","Fulica americana","2012-2022","breeding",-46.1,-54.7,-41,-37.2,-39.4,-33.8,"Wetlands:  Freshwater Marsh",NA
+"Alabama","ycnher","Yellow-crowned Night Heron","Nyctanassa violacea","2012-2022","breeding",-13.9,-23.8,4.07,-6.2,-10.1,-2.64,"Wetlands:  Generalist","Coasts:  Mangroves"
+"Alabama","yebcha","Yellow-breasted Chat","Icteria virens","2012-2022","breeding",-15.4,-20,-5.52,8.32,4.83,12.6,"Forests:  Temperate Eastern","Forests:  Temperate Western"
+"Alabama","yebcuc","Yellow-billed Cuckoo","Coccyzus americanus","2012-2022","breeding",6.47,1.63,17.8,19.3,14.7,25.9,"Forests:  Temperate Eastern",NA
+"Alabama","yelwar","Yellow Warbler","Setophaga petechia","2012-2022","breeding",-10.4,-15.1,1.53,0.782,-1.45,2.83,"Forests:  Temperate Generalist","Wetlands:  Generalist"
+"Alabama","yetvir","Yellow-throated Vireo","Vireo flavifrons","2012-2022","breeding",14.4,11,24.8,19.9,15.4,28.2,"Forests:  Temperate Eastern",NA
+"Alabama","yetwar","Yellow-throated Warbler","Setophaga dominica","2012-2022","breeding",26.8,15.4,37.8,18.2,12.8,22.7,"Forests:  Temperate Eastern",NA
