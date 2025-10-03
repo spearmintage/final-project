@@ -2,3 +2,4 @@ datasets/
 birdsong-recognition.zip
 
 !datasets/birdsongs-combined/delete_duplicates.ipynb
+!datasets/birdsongs-combined/dataset_merge_procedure.txt
