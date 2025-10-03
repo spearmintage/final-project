@@ -8,7 +8,7 @@ MERGE DATASETS FROM 2020-2024 DATASETS IN THIS ORDER:
 
 do not do them at the same time.
 do them one at a time.
-replace all files from each dataset when prompted.
+replace all files in the new dataset when prompted.
 allows for most up to date data on bird calls.
 
 delete_duplicates.ipynb handles all other inconsistencies.

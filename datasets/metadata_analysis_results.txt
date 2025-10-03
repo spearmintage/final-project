@@ -1,0 +1,44 @@
+combinations of all the metadata files are found in "birdsongs-combined/final_metadata.xlsx"
+
+in the FOLDER_SPECIES_TABLE sheet, there are a total of 1,014 unique species. (different to the 992 calculated in PID)
+the reason this was different was because 22 folders contained more than one local species.
+17 of these 22 were due to local names of the bird species, or the species name in the dataset was spelled differently, or had a hyphen, etc.
+5 of the 22 were of concern due to the difference in the name and the following are below:
+
+folder	species 1		species 2		investigation results
+
+amepip	American Pipit & 	Buff-bellied Pipit	Buff-bellied Pipit was the former name of the American Pipit.
+banswa	Bank Swallow & 		Sand Martin		Sand Martin is known as Bank Swallow in the Americas.
+gnwtea	Eurasian Teal & 	Green-winged Teal	They are both local names for the same bird.
+yelwar	Mangrove Warbler & 	Yellow Warbler		Mangrove is a group of subspecies of Yellow Warbler.
+yerwar	Myrtle Warbler & 	Yellow-rumped Warbler	Myrtle is a subspecies of Yellow-rumped Warbler.
+
+meaning, because there are no actual bird species differences, 
+there are a total of 992 different species of bird to classify,
+and every folder does contain 1 species of bird.
+
+in the COMBINED_TABLE_PLAINTEXT sheet, there were 11,766 files that were duplicate files among all 5 datasets.
+however, it was also the case that 15,874 files had the same xeno-canto ID but different file formats.
+because all files in the "birdsong-recognition" dataset were mp3 files, and all other datasets only had ogg files, i decided to delete the mp3 files.
+1) because older data tends to be historically inaccurate, even if by 1 year.
+2) less mp3 files means less confusion between file data analysis in the future
+
+determining the files to remove was a matter of logic. 
+as files that had both mp3 and ogg files would have to be in the birdsong-recognition dataset, 
+i sought to find the mp3s in birdsong-recognition that already had OGG formats, and delete the mp3s.
+
+out of the 21,375 files from that dataset, 5,501 remained.
+of the 15,874 that had to be removed, only 6 were removed due to different reasons than sharing mp3/ogg formats.
+
+these 6 were because the classification of the bird species changed over time.
+easmea/XC406586.mp3: Eastern Meadowlark -> Western Meadowlark
+louwat/XC136316.mp3: Louisiana Waterthrush -> Rufous-capped Warbler
+louwat/XC502062.mp3: Louisiana Waterthrush -> Northern Waterthrush
+prawar/XC376774.mp3: Prairie Warbler -> Field Sparrow
+rebmer/XC475655.mp3: Red-breasted Merganser -> Northern Shoveler
+weskin/XC351819.mp3: Western Kingbird -> Cassin's Kingbird
+
+thus, i then deleted the 15,874 duplicate files listed in the FILES_TO_DELETE sheet.
+
+this left my final dataset with the most up to date classifications of every bird, 
+with no xeno-canto ID appearing more than once, regardless of file type.

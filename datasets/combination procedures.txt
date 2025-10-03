@@ -1,0 +1,50 @@
+procedures to note for when writing dissertation
+
+the "birdsongs-combined" folder contains a mixture of data from the following datasets (folders):
+- birdclef-2021
+- birdclef-2022
+- birdclef-2023
+- birdclef-2024
+- birdsong-recognition
+
+the following files/folders from the datasets above were not included in "birdsongs-combined":
+- birdclef-2021/test_soundscapes/
+- birdclef-2021/sample_submission.csv
+- birdclef-2021/test.csv
+
+- birdclef-2022/sample_submission.csv
+- birdclef-2022/scored_birds.json
+- birdclef-2022/test.csv
+
+- birdclef-2023/sample_submission.csv
+
+- birdclef-2024/sample_submission.csv
+- birdclef-2024/test_soundscapes/
+- birdclef-2024/unlabeled_soundscapes/ (MAYBE. DEPENDS IF ANY USE COMES FROM IT)
+
+- birdsong-recognition/sample_submission.csv
+- birdsong-recognition/test.csv
+
+
+
+within the birdsongs-combined/train_audio folder, it has the following structure:
+- each subfolder is a code for the name of a bird species, which has audio files containing (primarily) calls from that species
+- these subfolders are taken from the "train_audio" folders of each respective dataset
+- these files come in either .mp3 or .ogg format.
+- there are numerous issues to tackle when merging these folders:
+	- there are multiple files which are duplicates, because of being sourced from the same xeno-canto database.
+		- this is handled on an incidental basis, when moving files to/from sources, some may be overwritten multiple times. 
+		- there is no specific strategy to removing duplicates, so it is (in a sense) random.
+	- some audio files exist as both .mp3 and .ogg files with the same file name.
+		- this will be handled through investigation of which file type is easiest to work with, and deleting the opposite corresponding file.
+	- multiple folders have different names despite belonging to the same bird species.
+		- this will also be handled on a case by case basis, likely involving manually renaming folders/moving files.
+
+
+after the following has been applied, the resulting folder should include 1 folder per bird species, with zero duplicate files (also includes multiple file types per xeno-canto ID).
+
+the folder should also contain spreadsheet(s) containing metadata describing each folder and corresponding bird species.
+- if there is a folder with no corresponding bird species, this folder will be deleted.
+- if there are multiple folders containing the same bird species, they will be merged accordingly.
+
+this should result in a dataset with complete enough data for preprocessing/cleansing/analysis.
