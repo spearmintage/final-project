@@ -1,0 +1,14 @@
+articles on classification/renaming of the following bird species:
+1)  American Pipit & Buff-bellied Pipit
+2)  Bank Swallow & Sand Martin
+3)  Eurasian Teal & Green-winged Teal
+4)  Mangrove Warbler & Yellow Warbler
+5)  Myrtle Warbler & Yellow-rumped Warbler
+
+evidence on xeno-canto.org of the classification of the following species changing over time:
+7) easmea/XC406586.mp3: Eastern Meadowlark -> Western Meadowlark
+8) louwat/XC136316.mp3: Louisiana Waterthrush -> Rufous-capped Warbler
+9) louwat/XC502062.mp3: Louisiana Waterthrush -> Northern Waterthrush
+10) prawar/XC376774.mp3: Prairie Warbler -> Field Sparrow
+11) rebmer/XC475655.mp3: Red-breasted Merganser -> Northern Shoveler
+12) weskin/XC351819.mp3: Western Kingbird -> Cassin's Kingbird
