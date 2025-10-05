@@ -42,3 +42,11 @@ thus, i then deleted the 15,874 duplicate files listed in the FILES_TO_DELETE sh
 
 this left my final dataset with the most up to date classifications of every bird, 
 with no xeno-canto ID appearing more than once, regardless of file type.
+
+
+
+after running the total_audio_length.ipynb file,
+it is seen that the final resulting dataset contains
+5653005 seconds
+94216 minutes
+1570 HOURS of audio footage.
