@@ -1,0 +1,27 @@
+DONE:
+- obtained and merged all datasets
+- handled duplicate XC ids
+
+TO DO (in this order):
+- investigate ways of extracting/viewing audio file data in python
+	- MP3 analysis
+	- OGG analysis
+	- raw file data in binary
+	- visualisations
+		- mel-spectrograms
+		- spectrograms
+		- pitch/frequency similar to audacity
+- investigate audio file analysis with ML models (look into RESEARCH PAPERS folder)
+	- CNN on spectrogram images
+	- other neural networks on temporal data
+	- audio file splitting with above bullet points
+- standardise data
+	- same bit rate
+	- same sampling rate
+	- audio file length (audio file splitting maybe)
+- create prototype model with 10-20 random classes
+	- train different techniques
+	- compare techniques
+	- optimise accuracy/minimise loss
+	- improve training/testing time
+	- utilise GPU training

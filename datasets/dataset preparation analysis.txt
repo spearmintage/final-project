@@ -3,15 +3,15 @@ combinations of all the metadata files are found in "birdsongs-combined/final_me
 in the FOLDER_SPECIES_TABLE sheet, there are a total of 1,014 unique species. (different to the 992 calculated in PID)
 the reason this was different was because 22 folders contained more than one local species.
 17 of these 22 were due to local names of the bird species, or the species name in the dataset was spelled differently, or had a hyphen, etc.
-5 of the 22 were of concern due to the difference in the name and the following are below:
+5 of the 22, listed below, were of concern due to the difference in name:
 
 folder	species 1		species 2		investigation results
 
-amepip	American Pipit & 	Buff-bellied Pipit	Buff-bellied Pipit was the former name of the American Pipit.
-banswa	Bank Swallow & 		Sand Martin		Sand Martin is known as Bank Swallow in the Americas.
-gnwtea	Eurasian Teal & 	Green-winged Teal	They are both local names for the same bird.
-yelwar	Mangrove Warbler & 	Yellow Warbler		Mangrove is a group of subspecies of Yellow Warbler.
-yerwar	Myrtle Warbler & 	Yellow-rumped Warbler	Myrtle is a subspecies of Yellow-rumped Warbler.
+amepip	American Pipit  	Buff-bellied Pipit	Buff-bellied Pipit was the former name of the American Pipit.
+banswa	Bank Swallow  		Sand Martin		Sand Martin is known as Bank Swallow in the Americas.
+gnwtea	Eurasian Teal  		Green-winged Teal	They are both local names for the same bird.
+yelwar	Mangrove Warbler  	Yellow Warbler		Mangrove is a group of subspecies of Yellow Warbler.
+yerwar	Myrtle Warbler  	Yellow-rumped Warbler	Myrtle is a subspecies of Yellow-rumped Warbler.
 
 meaning, because there are no actual bird species differences, 
 there are a total of 992 different species of bird to classify,
