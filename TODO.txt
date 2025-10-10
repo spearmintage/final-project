@@ -3,6 +3,13 @@ DONE:
 - handled duplicate XC ids
 
 TO DO (in this order):
+- investigate audio file analysis with ML models (look into RESEARCH PAPERS folder)
+	- RNNs/LSTMs
+	- CNN on mel-spectrogram images
+	- other neural networks on temporal data
+	- supervisor mentioned LLMs? do research, avoid using things like chatgpt or HUGE llm models. development of personal LLM maybe
+	- audio file splitting with above bullet points
+	- send PDF files of papers to supervisor
 - investigate ways of extracting/viewing audio file data in python
 	- MP3 analysis
 	- OGG analysis
@@ -11,10 +18,6 @@ TO DO (in this order):
 		- mel-spectrograms
 		- spectrograms
 		- pitch/frequency similar to audacity
-- investigate audio file analysis with ML models (look into RESEARCH PAPERS folder)
-	- CNN on spectrogram images
-	- other neural networks on temporal data
-	- audio file splitting with above bullet points
 - standardise data
 	- same bit rate
 	- same sampling rate
