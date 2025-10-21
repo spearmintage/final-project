@@ -2,6 +2,14 @@ DONE:
 - obtained and merged all datasets
 - handled duplicate XC ids
 
+models to learn/use/apply to audio files:
+- GMM (gaussian mixture model)
+- DNN (deep neural network)
+- RNN (recurrent neural network)
+- CNN (convolutional neural network)
+- model FUSION ???
+
+
 TO DO (in this order):
 - investigate audio file analysis with ML models (look into RESEARCH PAPERS folder)
 	- RNNs/LSTMs
