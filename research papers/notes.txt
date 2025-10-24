@@ -1,0 +1,34 @@
+Environmental sound recognition on embedded devices using deep learning: a review:
+    - many sources argue deep learning approaches offer better performance and accuracy: (ALL WITHIN 5 YEARS)
+        - https://doi.org/10.1145/3322240
+        - https://doi.org/10.1016/j.iswa.2022.200115
+        - https://doi.org/10.32622/ijrat.76201926
+    - CNNs and RNNs seem targeted for this purpose
+        - https://doi.org/10.1007/s11042-023-15891-z (2024)
+    - environmental sound recognition classification:
+        - https://doi.org/10.1145/3618104 (2023)
+    - page 7, (table 1) contains a list of MANY studies of sound classifications (sorted by classes) (all 2022 onwards)
+        - https://doi.org/10.1109/INDICON56171.2022.10039921 (environmental sound, 200 classes)
+        - https://doi.org/10.1016/j.ecoinf.2024.102637 (bird sounds, 20 classes)
+        - https://doi.org/10.1016/j.patcog.2022.109025 (environmental sound, 10 classes)
+        - https://doi.org/10.3390/sci6020021 (environmental sound, 10-50 classes)
+    - investigates numerous pre-processing algorithms including:
+        - sampling rate of audio between 16-48 kHz (VERY commonly 16kHz)
+        - windows of 1000-5000ms (commonly 1000-1500, but can go up to 2500-3000)
+        - FFT (fast fourier transform)
+        - STFT (short time fourier transform)
+            - includes windows for FFt algorithm
+            - includes overlap/shift between successive frames
+        - amplitude thresholds for silent data
+        - normalisation of values using minmaxscaler
+        - hanning windows seem extremely common
+        - one downsamples to 16kHz using zero order holder. (https://doi.org/10.1109/IS262782.2024.10704131)
+    - features used in analysis:
+        - mel-spectrograms (VERY common)
+            - common additional metrics/values include:
+                - mel frequency log-scale power spectrogram
+                - mel-frequency cepstral coefficients (MFCC)
+        - magnitude spectrogram
+        - raw audio data 
+    - refer to section 3.3 (text just before section 3.4) for information on computation cost
+    - STRONGLY hints at using CNNs (while resnets, LSTMs, and numerous other methods listed in TODO.txt exist too)
