@@ -18,6 +18,7 @@ TO DO (in this order):
 	- supervisor mentioned LLMs? do research, avoid using things like chatgpt or HUGE llm models. development of personal LLM maybe
 	- send PDF files of papers to supervisor
 - investigate ways of extracting/viewing audio file data in python
+	- https://www.youtube.com/watch?v=ZqpSb5p1xQo
 	- MP3 analysis
 	- OGG analysis
 	- raw file data in binary
