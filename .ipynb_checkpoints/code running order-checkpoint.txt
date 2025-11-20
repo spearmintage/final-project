@@ -1,0 +1,23 @@
+assuming everything is starting fresh, this is the order to handle the data to make sure all is correct and ready for final analysis:
+this file should be in "final-project/"
+all references to files are relative to this location
+
+THIS IS ALL TO BE DONE ON THE SCIAMA SUPERCOMPUTER.
+
+1. within ./datasets/, verify there are the following 5 folders. if not, download them from kaggle's cornell lab of ornithology competitions page.
+    a. ./datasets/birdsong-recognition/
+    b. ./datasets/birdclef-2021/
+    c. ./datasets/birdclef-2022/
+    d. ./datasets/birdclef-2023/
+    e. ./datasets/birdclef-2024/
+2. also within ./datasets/, create a new folder, titled birdsongs-combined
+3. within each folder listed in step 1, they should all contain a subfolder along the lines of "train_audio" OR "train_short_audio"
+4. in the order the folders are listed in step 1, move the contents of each above mentioned folder into datasets/birdsong-recognition/train_audio/
+5. when moving the contents in order, if you are prompted, choose to replace all existing files with the ones you are currently moving.
+6. verify that 992 folders and 128735 files exist in birdsongs-combined/train_audio/
+7. from here, run the code located in ./datasets/delete_duplicates.ipynb
+8. verify that 992 folders and 112861 files exist in birdsongs-combined/train_audio/
+9. run ./code/sciama_convert_mp3_to_wav.ipynb
+10. if you find there are some files that are in the "erroneous_files" section of the above notebook, you can choose to delete them or manually repair/transfer them to the train_audio_wav/ folder.
+11. run ./code/sciama_verify_wav_folder_files.ipynb
+12. your final folder for analysis should be located in /mnt/lustre/peprmint/train_audio_wav/
