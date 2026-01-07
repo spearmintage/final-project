@@ -1,39 +1,6 @@
-DONE:
-- obtained and merged all datasets
-- handled duplicate XC ids
-
-models to learn/use/apply to audio files:
-- GMM (gaussian mixture model)
-- DNN (deep neural network)
-- RNN (recurrent neural network)
-	- RNNs/LSTMs
-- CNN (convolutional neural network)
-	- CNN on mel-spectrogram images
-- model FUSION ???
-
-
-TO DO (in this order):
-- investigate audio file analysis with ML models (look into RESEARCH PAPERS folder)
-	- other neural networks on temporal data
-	- supervisor mentioned LLMs? do research, avoid using things like chatgpt or HUGE llm models. development of personal LLM maybe
-	- send PDF files of papers to supervisor
-- investigate ways of extracting/viewing audio file data in python
-	- https://www.youtube.com/watch?v=ZqpSb5p1xQo
-	- MP3 analysis
-	- OGG analysis
-	- raw file data in binary
-	- visualisations
-		- mel-spectrograms
-		- spectrograms
-		- pitch/frequency similar to audacity
-	- audio file splitting 
-- standardise data
-	- same bit rate
-	- same sampling rate
-	- audio file length (audio file splitting maybe)
-- create prototype model with 10-20 random classes
-	- train different techniques
-	- compare techniques
-	- optimise accuracy/minimise loss
-	- improve training/testing time
-	- utilise GPU training
+TODO:
+- filter out (and get statistics):
+	- MULTI-LABEL AUDIO FILES
+	- bad quality audio files (histogram of "rating" from metadata) (0.5, 1.0, 1.5, ..., 4.5, 5.0)
+	- folders with low quantity of audio files (AFTER ABOVE 2 TECHNIQUES DONE)
+- implement multiple types of deep learning models on dataset
