@@ -1,31 +1,11 @@
 procedures to note for when writing dissertation
 
 the "birdsongs-combined" folder contains a mixture of data from the following datasets (folders):
+- birdsong-recognition
 - birdclef-2021
 - birdclef-2022
 - birdclef-2023
 - birdclef-2024
-- birdsong-recognition
-
-the following files/folders from the datasets above were not included in "birdsongs-combined":
-- birdclef-2021/test_soundscapes/
-- birdclef-2021/sample_submission.csv
-- birdclef-2021/test.csv
-
-- birdclef-2022/sample_submission.csv
-- birdclef-2022/scored_birds.json
-- birdclef-2022/test.csv
-
-- birdclef-2023/sample_submission.csv
-
-- birdclef-2024/sample_submission.csv
-- birdclef-2024/test_soundscapes/
-- birdclef-2024/unlabeled_soundscapes/ (MAYBE. DEPENDS IF ANY USE COMES FROM IT)
-
-- birdsong-recognition/sample_submission.csv
-- birdsong-recognition/test.csv
-
-
 
 within the birdsongs-combined/train_audio folder, it has the following structure:
 - each subfolder is a code for the name of a bird species, which has audio files containing (primarily) calls from that species
