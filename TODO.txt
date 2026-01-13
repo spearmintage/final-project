@@ -1,3 +1,11 @@
 TODO:
+- preprocessing technique: bird species that make similar sounds. investigate genus/family. do it by hand if necessary
 - implement multiple types of deep learning models on dataset
 - experiment with sequential aggregation on FILTERED dataset
+
+
+
+USE THIS CITATION FOR BIRD SPECIES CHANGES OVER TIME
+USE FOR TWO GENUSES OF SAME FOLDER CODE FOUND IN METADATA
+USE FOR THE 20 OR SO BIRD SPECIES CHANGES
+Clements, J. F., P. C. Rasmussen, T. S. Schulenberg, M. J. Iliff, J. A. Gerbracht, D. Lepage, A. Spencer, S. M. Billerman, B. L. Sullivan, M. Smith, and C. L. Wood. 2025. The eBird/Clements checklist of Birds of the World: v2025. Downloaded from https://www.birds.cornell.edu/clementschecklist/download/
