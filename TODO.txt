@@ -1,7 +1,5 @@
 TODO:
-- preprocessing technique: bird species that make similar sounds. investigate genus/family. do it by hand if necessary
 - implement multiple types of deep learning models on dataset
-- experiment with sequential aggregation on FILTERED dataset
 
 
 
