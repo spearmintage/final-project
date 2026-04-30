@@ -7,6 +7,8 @@ import PySimpleGUI as sg
 import torch
 import torch.nn as nn
 import torchaudio
+import warnings
+import os
 
 class TestModel(nn.Module):
     def __init__(self, input_shape: torch.Size, dropout_rate: float = 0, total_output_classes: int = 50):
@@ -19,8 +21,6 @@ class TestModel(nn.Module):
         B = input_shape[1]
         C = input_shape[2]
         D = input_shape[3]
-
-        print(input_shape)
 
         self.relu = nn.ReLU() # relu does not have trainable parameters, thus, can be reused
 
@@ -219,11 +219,13 @@ def parse_file(file_path, split_interval_secs):
     return prediction_order
 
 def format_predictions(predictions):
+    # get list of all predictions above 0.1%
+
     prediction_sorted = sorted(predictions, key = lambda x: x[1], reverse=True)
 
     prediction_filtered = [x for x in prediction_sorted if x[1] > 0.001]
 
-    output = ""
+    output = "Prediction breakdown:\n\n"
 
     for pred in prediction_filtered:
         output += f"{species_key[pred[0]]}: {round(pred[1] * 100, 2)}%\n"
@@ -234,13 +236,18 @@ def format_predictions(predictions):
 
 np.set_printoptions(formatter={'float_kind':'{:.20f}'.format})
 sg.theme("SystemDefault")
+warnings.filterwarnings("ignore", category=UserWarning)
+sg.set_options(suppress_error_popups=False, suppress_key_guessing=False, suppress_raise_key_errors=False)
 
 file_format_text = sg.Text(text="", visible=True, colors=("Red", None))
-output_text = sg.Text(text="Press \'Run\' to change me :)", enable_events=True, key="-OUTPUT_PANE-")
+breakdown_text = sg.Text(text="Press \'Run\' to identify a bird song!", enable_events=True, key="-OUTPUT_PANE-")
+top_pred_image = sg.Image(visible=False)
 
-model_path = str(pathlib.Path(__file__).parent.resolve()) + "/../development/models/best_model_070.pth"
+curdir = str(pathlib.Path(__file__).parent.resolve())
 
-species_key = {row.split(",")[0].replace("\n", ""): row.split(",")[1].replace("\n", "") for row in open(str(pathlib.Path(__file__).parent.resolve()) + "/species_key.csv").readlines()}
+model_path = curdir + "/../development/models/best_model_070.pth"
+
+species_key = {row.split(",")[0].replace("\n", ""): row.split(",")[1].replace("\n", "") for row in open(curdir + "/species_key.csv").readlines()}
 
 layout = [
     [sg.Text("Birdsong Classification")],
@@ -256,11 +263,12 @@ layout = [
         [sg.Column(
             layout=[
                 [
-                    output_text
+                    top_pred_image,
+                    breakdown_text
                 ]
             ]
         )],
-        size=(400, 300)
+        size=(800, 600)
     )]
 ]
 
@@ -290,9 +298,20 @@ while True:
             split_interval_secs=2
         )
 
+        predictions = sorted(predictions, key = lambda x: x[1], reverse=True)
         predictions_str = format_predictions(predictions)
 
-        output_text.Update(value=predictions_str)
+        if os.path.exists(f"{curdir}/images/{species_key[predictions[0][0]]}.png"):
+            top_pred_image.Update(
+                source=f"{curdir}/images/{species_key[predictions[0][0]]}.png", 
+                visible=True,
+                subsample=6
+            )
+        else:
+            top_pred_image.Update(visible=False)
+
+        breakdown_text.Update(value=predictions_str)
+
         
 
     if event == sg.WINDOW_CLOSED:
