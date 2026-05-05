@@ -154,7 +154,7 @@ def parse_file(file_path, split_interval_secs):
         50: 'SILENT'
     }
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cpu")
     
     # load file data and resample to sample_rate if necessary
     file_data, file_sample_rate_hz = torchaudio.load(uri=file_path, channels_first=True)
@@ -203,7 +203,7 @@ def parse_file(file_path, split_interval_secs):
     samples = torch.Tensor(np.array(samples)).to(device)
 
     model = TestModel(input_shape=samples.shape, dropout_rate=0.5).to(device)
-    model.load_state_dict(torch.load(model_path))
+    model.load_state_dict(torch.load(model_path, map_location=device))
     model.eval()
 
     with torch.no_grad():
@@ -282,12 +282,25 @@ while True:
 
     event, values = window.read()
 
+    if event == "Select File":
+        file_format_text.Update(value="")
+
     if event == "Run":
         file_format_text.Update(value="")
 
         # check file submitted is wav or mp3
         if values["-FILE-"][-3:].lower() not in ["wav", "mp3", "ogg"]:
             file_format_text.Update(value="File must be .wav, .ogg or .mp3 only.")
+            continue
+
+        # check file actually exists and is accessible
+        try:
+            open(values["-FILE-"])
+        except PermissionError:
+            file_format_text.Update("Error: Failed to read file.\nCould be due to insufficient permissions.", text_color="Red")
+            continue
+        except FileNotFoundError:
+            file_format_text.Update("Error: File does not exist.", text_color="Red")
             continue
         
         # if file is all good, attempt to parse and predict
@@ -297,6 +310,12 @@ while True:
             file_path=values["-FILE-"],
             split_interval_secs=2
         )
+
+        # if zero useful sound bytes come out.
+        if predictions == None:
+            file_format_text.Update(value="")
+            breakdown_text.Update("No successful prediction could be made.\nTotal file contains data unsuitable for analysis..", text_color="Red")
+            continue
 
         predictions = sorted(predictions, key = lambda x: x[1], reverse=True)
         predictions_str = format_predictions(predictions)
